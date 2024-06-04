@@ -4,6 +4,8 @@ PitchEye is a project designed to analyze football (soccer) matches by detecting
 
 ## 🎥 Demo Video
 
+![diagram (3)](https://github.com/DhruvSharma19/PitchEye/assets/112254552/52377374-1a36-4cab-a4d1-7ea8066e378c)
+![diagram (2)](https://github.com/DhruvSharma19/PitchEye/assets/112254552/7125c41f-235b-460f-8b13-87533ec00f02)
 
 
 ## 🛠️ System Diagrams
