@@ -51,7 +51,7 @@ To run this project, you need to have the following requirements installed:
 4. Analyze Performance: Calculate team metrics, player movements, and other performance indicators.
 5. Visualize Results: Use Matplotlib and other visualization tools to present the analysis results.
 
-## Contributing 🤝
+## Contributions 🤝
 Contributions are welcome! Please follow the standard GitHub workflow:
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature/xyz`).
