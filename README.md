@@ -1,16 +1,26 @@
 # PitchEye: Football Analysis Project ⚽
 
-## Overview ℹ️
 PitchEye is a project designed to analyze football (soccer) matches by detecting and tracking players, referees, and footballs in video footage. It leverages state-of-the-art AI object detection models, segmentation techniques, and motion analysis to provide insights into team performance and player dynamics.
 
-## Features 🛠️
+## 🎥 Demo Video
+
+
+
+## 🛠️ System Diagrams
+
+![diagram (3)](https://github.com/DhruvSharma19/PitchEye/assets/112254552/52377374-1a36-4cab-a4d1-7ea8066e378c)
+![diagram (2)](https://github.com/DhruvSharma19/PitchEye/assets/112254552/7125c41f-235b-460f-8b13-87533ec00f02)
+
+## 🌟 Key Features
+
 - Object Detection: Utilizes YOLO (You Only Look Once) for real-time object detection of players, referees, and footballs.
 - Team Assignment: Assigns players to teams based on the colors of their t-shirts using K-means clustering.
 - Performance Metrics: Calculates ball acquisition percentage, player speed, and distance covered for comprehensive match analysis.
 - Optical Flow: Measures camera movement between frames to accurately track player movements.
 - Perspective Transformation: Represents scene depth and perspective, allowing measurement of player movements in real-world units.
 
-## Modules Used 📦
+## 🛠 Technologies Used
+
 - YOLO: AI object detection model
 - Kmeans: Pixel segmentation and clustering for t-shirt color detection
 - Optical Flow: Measure camera movement
@@ -27,6 +37,8 @@ To run this project, you need to have the following requirements installed:
 - Matplotlib
 - Pandas
 
+## 🖼️ Screenshots
+
 ## Getting Started 🚀
 1. Clone this repository to your local machine.
 2. Install the required dependencies listed in the `requirements.txt` file.
@@ -39,16 +51,13 @@ To run this project, you need to have the following requirements installed:
 4. Analyze Performance: Calculate team metrics, player movements, and other performance indicators.
 5. Visualize Results: Use Matplotlib and other visualization tools to present the analysis results.
 
-## Contributing 🤝
+## Contributions 🤝
 Contributions are welcome! Please follow the standard GitHub workflow:
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature/xyz`).
 3. Make your changes and commit them (`git commit -am 'Add new feature'`).
 4. Push your changes to the branch (`git push origin feature/xyz`).
 5. Create a new Pull Request.
-
-## License 📝
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements 🙏
 - This project was inspired by the need for advanced football match analysis tools.
